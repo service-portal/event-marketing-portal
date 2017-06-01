@@ -1,6 +1,8 @@
 # Event Marketing Portal
 Create a beautiful portal on top of the Marketing Event Application
 
+![Screen 1](/assets/screen1.png) ![Screen 2](/assets/screen2.png) ![Screen 3](/assets/screen3.png)
+
 ## Step 1
 
 Before beginning this exercise you must first build the Marketing Event Application by following the steps described here:
